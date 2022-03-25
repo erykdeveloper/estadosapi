@@ -1,0 +1,25 @@
+{
+  "name": "estadosapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erykdeveloper/testebackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erykdeveloper/testebackend/issues"
+  },
+  "homepage": "https://github.com/erykdeveloper/testebackend#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
